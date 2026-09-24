@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en:/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en/:/en/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr/:/fr/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr:/fr",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es/:/es/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es:/es",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja/:/ja/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja:/ja",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de/:/de/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de:/de",
-    "/content/696f3e84bf795426d5d1d8e7/configuration:/.helix/config.json",
-    "/content/696f3e84bf795426d5d1d8e7/metadata:/metadata.json",
-    "/content/696f3e84bf795426d5d1d8e7/redirects:/redirects.json",
-    "/content/696f3e84bf795426d5d1d8e7/placeholders:/placeholders.json"
+    "/content/salvamo/malagacf-eds-da/language-masters/en:/",
+    "/content/salvamo/malagacf-eds-da/language-masters/en/:/en/",
+    "/content/salvamo/malagacf-eds-da/language-masters/fr/:/fr/",
+    "/content/salvamo/malagacf-eds-da/language-masters/fr:/fr",
+    "/content/salvamo/malagacf-eds-da/language-masters/es/:/es/",
+    "/content/salvamo/malagacf-eds-da/language-masters/es:/es",
+    "/content/salvamo/malagacf-eds-da/language-masters/ja/:/ja/",
+    "/content/salvamo/malagacf-eds-da/language-masters/ja:/ja",
+    "/content/salvamo/malagacf-eds-da/language-masters/de/:/de/",
+    "/content/salvamo/malagacf-eds-da/language-masters/de:/de",
+    "/content/salvamo/malagacf-eds-da/configuration:/.helix/config.json",
+    "/content/salvamo/malagacf-eds-da/metadata:/metadata.json",
+    "/content/salvamo/malagacf-eds-da/redirects:/redirects.json",
+    "/content/salvamo/malagacf-eds-da/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/696f3e84bf795426d5d1d8e7/",
-    "/content/dam/696f3e84bf795426d5d1d8e7/"
+    "/content/salvamo/malagacf-eds-da/",
+    "/content/dam/salvamo/malagacf-eds-da/"
   ]
 }
